@@ -6,7 +6,7 @@
 
 Refresh tokens são muito importantes quando queremos manter o nível de segurança da nossa aplicação alto, porém sem prejudicar a experiência dos usuários. Eles são usados para que as pessoas continuem "logadas", ou seja, sem precisarem ficar usando usuário e senha muitas vezes, mas ao mesmo tempo mantendo o tempo de expiração dos access tokens baixos.
 
-Nesta aula veremos uma implementaçãi de refresh tokens usando Node.js e um banco PostgreSQL. Ao final será possível gerar um refresh token com expiração e que será passado via cookies httponly, também teremos endpoints para invalidar os refresh tokens no caso de um logout.
+Nesta aula veremos uma implementação de refresh tokens usando Node.js e um banco PostgreSQL. Ao final será possível gerar um refresh token com expiração e que será passado via cookies httponly, também teremos endpoints para invalidar os refresh tokens no caso de um logout.
 
 ## Expert
 

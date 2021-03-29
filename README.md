@@ -36,3 +36,7 @@ Aqui estão alguns assuntos que não foram abordados na aula, mas fica o desafio
 0. Que tal criar um endpoint para os usuários com role de admin no qual é possível deslogar determinados usuários?
 0. Como podemos ter muitos acessos ao nosso banco de dados, seria interessante criar índices na tabela `users` e na tabela `tokens`
 0. Pode ser interessante colocar mais informações na tabela dos refresh tokens, para auditoria e segurança. Consegue pensar em quais seriam interessantes?
+
+### Referências
+
+- [Artigo da Auth0 explicando brevemente o conceito (em inglês)](https://auth0.com/learn/refresh-tokens/)
